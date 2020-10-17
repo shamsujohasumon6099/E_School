@@ -1,0 +1,158 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.header{
+    background: #F0FFF0;
+}
+
+.navbar img{
+    Width: 198.07px;
+    Height:59px;
+}
+.sing-in-btn{
+    background: #21B573;
+    border-radius: 33px;
+    border: none;
+    padding: 8px 30px;
+    color: white;
+}
+.nav-item{
+    margin-left: 15px;
+    
+}
+a{
+    font-size: 16px;
+    line-height: 24px;
+    color: #000!important;
+    
+
+}
+.banner{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.banner img{
+    width: 100%;
+}
+
+.banner h1,span{
+    font-weight: 700;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 70px;
+}
+
+.ready{
+    color: #FD511A;
+}
+span{
+    color: #21B573;
+}
+.banner-left{
+    padding-right: 40px;
+}
+
+.book-card img{
+    width: 66px;
+    height: 85px;
+    margin: auto;
+}
+.book-card h5{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #413960;
+}
+.book-card p{
+    font-size: 16px;
+    line-height: 24px;
+    color: #585859;
+}
+.book-card,.book-card-body{
+    margin: auto;
+    border: none;
+    padding-top: 30px;
+    padding-bottom: 20px;
+
+}
+.card-deck{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.card:hover{
+    box-shadow: 5px 5px 15px  #21B573;
+    
+}
+.course-h2{
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 54px;
+    color: #413960;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 100px;
+}
+.course-card img{
+    width: 331px;
+    height: 234px;
+    border-radius: 11px;
+    margin: auto;
+    padding: 20px 8px;
+}
+
+.course-card h5{
+    font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+
+color: #413960;
+
+}
+.course-card{
+    border-radius: 18px;
+    
+}
+
+.course-card .footer{
+    padding-top: 25px;
+}
+
+.testimonial img{
+    width: 120px;
+    height: 120px;
+}
+.testimonial{
+    margin-bottom: 100px;
+}
+.testimonial-h2{
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 54px;
+    color: #413960;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.footer-span{
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 30px;
+    color: white;
+}
+.last-footer p{
+    color: white;
+}
+
+.footer-bg{
+    background:#282531;
+    margin-bottom: 0;
+}
+.foot-row{
+    padding-top: 70px;
+    padding-bottom: 70px;
+    margin-bottom: 0;
+}
+.foot-p{
+    padding-bottom: 40px;
+    text-align: center;
+}
